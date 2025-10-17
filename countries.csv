@@ -1,29 +1,196 @@
 flag,name,code,iso,keepZero
-🇫🇷,France,33,FR,false
-🇧🇪,Belgique,32,BE,false
-🇨🇭,Suisse,41,CH,false
-🇨🇦,Canada,1,CA,false
-🇺🇸,États-Unis,1,US,false
-🇬🇧,Royaume-Uni,44,GB,false
-🇩🇪,Allemagne,49,DE,false
-🇪🇸,Espagne,34,ES,false
-🇮🇹,Italie,39,IT,true
-🇵🇹,Portugal,351,PT,false
-🇳🇱,Pays-Bas,31,NL,false
-🇱🇺,Luxembourg,352,LU,false
-🇲🇦,Maroc,212,MA,true
+🇦🇫,Afghanistan,93,AF,false
+🇿🇦,Afrique du Sud,27,ZA,false
+🇦🇱,Albanie,355,AL,false
 🇩🇿,Algérie,213,DZ,true
-🇹🇳,Tunisie,216,TN,true
-🇸🇳,Sénégal,221,SN,false
-🇨🇮,Côte d'Ivoire,225,CI,true
-🇨🇲,Cameroun,237,CM,false
-🇨🇩,RD Congo,243,CD,false
-🇲🇬,Madagascar,261,MG,false
-🇬🇦,Gabon,241,GA,false
+🇩🇪,Allemagne,49,DE,false
+🇦🇩,Andorre,376,AD,false
+🇦🇴,Angola,244,AO,false
+🇦🇬,Antigua-et-Barbuda,1268,AG,false
+🇸🇦,Arabie Saoudite,966,SA,false
+🇦🇷,Argentine,54,AR,false
+🇦🇲,Arménie,374,AM,false
+🇦🇺,Australie,61,AU,false
+🇦🇹,Autriche,43,AT,false
+🇦🇿,Azerbaïdjan,994,AZ,false
+🇧🇸,Bahamas,1242,BS,false
+🇧🇭,Bahreïn,973,BH,false
+🇧🇩,Bangladesh,880,BD,false
+🇧🇧,Barbade,1246,BB,false
+🇧🇪,Belgique,32,BE,false
+🇧🇿,Belize,501,BZ,false
 🇧🇯,Bénin,229,BJ,false
-🇹🇬,Togo,228,TG,false
-🇳🇪,Niger,227,NE,false
+🇧🇹,Bhoutan,975,BT,false
+🇧🇾,Biélorussie,375,BY,false
+🇧🇴,Bolivie,591,BO,false
+🇧🇦,Bosnie-Herzégovine,387,BA,false
+🇧🇼,Botswana,267,BW,false
+🇧🇷,Brésil,55,BR,false
+🇧🇳,Brunei,673,BN,false
+🇧🇬,Bulgarie,359,BG,false
 🇧🇫,Burkina Faso,226,BF,false
-🇲🇱,Mali,223,ML,false
-🇭🇹,Haïti,509,HT,false
+🇧🇮,Burundi,257,BI,false
+🇰🇭,Cambodge,855,KH,false
+🇨🇲,Cameroun,237,CM,false
+🇨🇦,Canada,1,CA,false
+🇨🇻,Cap-Vert,238,CV,false
+🇨🇱,Chili,56,CL,false
+🇨🇳,Chine,86,CN,false
+🇨🇾,Chypre,357,CY,false
+🇨🇴,Colombie,57,CO,false
+🇰🇲,Comores,269,KM,false
+🇨🇬,Congo-Brazzaville,242,CG,false
+🇨🇩,Congo-Kinshasa,243,CD,false
+🇰🇵,Corée du Nord,850,KP,false
+🇰🇷,Corée du Sud,82,KR,false
+🇨🇷,Costa Rica,506,CR,false
+🇨🇮,Côte d'Ivoire,225,CI,true
+🇭🇷,Croatie,385,HR,false
+🇨🇺,Cuba,53,CU,false
+🇩🇰,Danemark,45,DK,false
+🇩🇯,Djibouti,253,DJ,false
+🇩🇲,Dominique,1767,DM,false
+🇪🇬,Égypte,20,EG,false
+🇦🇪,Émirats Arabes Unis,971,AE,false
+🇪🇨,Équateur,593,EC,false
+🇪🇷,Érythrée,291,ER,false
+🇪🇸,Espagne,34,ES,false
+🇪🇪,Estonie,372,EE,false
+🇸🇿,Eswatini,268,SZ,false
+🇺🇸,États-Unis,1,US,false
+🇪🇹,Éthiopie,251,ET,false
+🇫🇯,Fidji,679,FJ,false
+🇫🇮,Finlande,358,FI,false
+🇫🇷,France,33,FR,false
+🇬🇦,Gabon,241,GA,false
+🇬🇲,Gambie,220,GM,false
+🇬🇪,Géorgie,995,GE,false
+🇬🇭,Ghana,233,GH,false
+🇬🇷,Grèce,30,GR,false
+🇬🇩,Grenade,1473,GD,false
+🇬🇹,Guatemala,502,GT,false
 🇬🇳,Guinée,224,GN,false
+🇬🇶,Guinée équatoriale,240,GQ,false
+🇬🇼,Guinée-Bissau,245,GW,false
+🇬🇾,Guyana,592,GY,false
+🇭🇹,Haïti,509,HT,false
+🇭🇳,Honduras,504,HN,false
+🇭🇺,Hongrie,36,HU,false
+🇮🇳,Inde,91,IN,false
+🇮🇩,Indonésie,62,ID,false
+🇮🇶,Irak,964,IQ,false
+🇮🇷,Iran,98,IR,false
+🇮🇪,Irlande,353,IE,false
+🇮🇸,Islande,354,IS,false
+🇮🇱,Israël,972,IL,false
+🇮🇹,Italie,39,IT,true
+🇯🇲,Jamaïque,1876,JM,false
+🇯🇵,Japon,81,JP,false
+🇯🇴,Jordanie,962,JO,false
+🇰🇿,Kazakhstan,7,KZ,false
+🇰🇪,Kenya,254,KE,false
+🇰🇬,Kirghizistan,996,KG,false
+🇰🇮,Kiribati,686,KI,false
+🇽🇰,Kosovo,383,XK,false
+🇰🇼,Koweït,965,KW,false
+🇱🇦,Laos,856,LA,false
+🇱🇸,Lesotho,266,LS,false
+🇱🇻,Lettonie,371,LV,false
+🇱🇧,Liban,961,LB,false
+🇱🇷,Liberia,231,LR,false
+🇱🇾,Libye,218,LY,false
+🇱🇮,Liechtenstein,423,LI,false
+🇱🇹,Lituanie,370,LT,false
+🇱🇺,Luxembourg,352,LU,false
+🇲🇰,Macédoine du Nord,389,MK,false
+🇲🇬,Madagascar,261,MG,false
+🇲🇾,Malaisie,60,MY,false
+🇲🇼,Malawi,265,MW,false
+🇲🇻,Maldives,960,MV,false
+🇲🇱,Mali,223,ML,false
+🇲🇹,Malte,356,MT,false
+🇲🇦,Maroc,212,MA,true
+🇲🇭,Îles Marshall,692,MH,false
+🇲🇺,Maurice,230,MU,false
+🇲🇷,Mauritanie,222,MR,false
+🇲🇽,Mexique,52,MX,false
+🇫🇲,Micronésie,691,FM,false
+🇲🇩,Moldavie,373,MD,false
+🇲🇨,Monaco,377,MC,false
+🇲🇳,Mongolie,976,MN,false
+🇲🇪,Monténégro,382,ME,false
+🇲🇿,Mozambique,258,MZ,false
+🇲🇲,Myanmar,95,MM,false
+🇳🇦,Namibie,264,NA,false
+🇳🇷,Nauru,674,NR,false
+🇳🇵,Népal,977,NP,false
+🇳🇮,Nicaragua,505,NI,false
+🇳🇪,Niger,227,NE,false
+🇳🇬,Nigeria,234,NG,false
+🇳🇴,Norvège,47,NO,false
+🇳🇿,Nouvelle-Zélande,64,NZ,false
+🇴🇲,Oman,968,OM,false
+🇺🇬,Ouganda,256,UG,false
+🇺🇿,Ouzbékistan,998,UZ,false
+🇵🇰,Pakistan,92,PK,false
+🇵🇼,Palaos,680,PW,false
+🇵🇦,Panama,507,PA,false
+🇵🇬,Papouasie-Nouvelle-Guinée,675,PG,false
+🇵🇾,Paraguay,595,PY,false
+🇳🇱,Pays-Bas,31,NL,false
+🇵🇪,Pérou,51,PE,false
+🇵🇭,Philippines,63,PH,false
+🇵🇱,Pologne,48,PL,false
+🇵🇹,Portugal,351,PT,false
+🇶🇦,Qatar,974,QA,false
+🇨🇫,République Centrafricaine,236,CF,false
+🇩🇴,République Dominicaine,1809,DO,false
+🇨🇿,République Tchèque,420,CZ,false
+🇷🇴,Roumanie,40,RO,false
+🇬🇧,Royaume-Uni,44,GB,false
+🇷🇺,Russie,7,RU,false
+🇷🇼,Rwanda,250,RW,false
+🇰🇳,Saint-Christophe-et-Niévès,1869,KN,false
+🇱🇨,Sainte-Lucie,1758,LC,false
+🇻🇨,Saint-Vincent-et-les-Grenadines,1784,VC,false
+🇸🇧,Îles Salomon,677,SB,false
+🇸🇻,Salvador,503,SV,false
+🇼🇸,Samoa,685,WS,false
+🇸🇲,Saint-Marin,378,SM,false
+🇸🇹,Sao Tomé-et-Principe,239,ST,false
+🇸🇳,Sénégal,221,SN,false
+🇷🇸,Serbie,381,RS,false
+🇸🇨,Seychelles,248,SC,false
+🇸🇱,Sierra Leone,232,SL,false
+🇸🇬,Singapour,65,SG,false
+🇸🇰,Slovaquie,421,SK,false
+🇸🇮,Slovénie,386,SI,false
+🇸🇴,Somalie,252,SO,false
+🇸🇩,Soudan,249,SD,false
+🇸🇸,Soudan du Sud,211,SS,false
+🇱🇰,Sri Lanka,94,LK,false
+🇸🇪,Suède,46,SE,false
+🇨🇭,Suisse,41,CH,false
+🇸🇷,Suriname,597,SR,false
+🇸🇾,Syrie,963,SY,false
+🇹🇯,Tadjikistan,992,TJ,false
+🇹🇿,Tanzanie,255,TZ,false
+🇹🇩,Tchad,235,TD,false
+🇹🇭,Thaïlande,66,TH,false
+🇹🇱,Timor oriental,670,TL,false
+🇹🇬,Togo,228,TG,false
+🇹🇴,Tonga,676,TO,false
+🇹🇹,Trinité-et-Tobago,1868,TT,false
+🇹🇳,Tunisie,216,TN,true
+🇹🇲,Turkménistan,993,TM,false
+🇹🇷,Turquie,90,TR,false
+🇹🇻,Tuvalu,688,TV,false
+🇺🇦,Ukraine,380,UA,false
+🇺🇾,Uruguay,598,UY,false
+🇻🇺,Vanuatu,678,VU,false
+🇻🇦,Vatican,39,VA,true
+🇻🇪,Venezuela,58,VE,false
+🇻🇳,Vietnam,84,VN,false
+🇾🇪,Yémen,967,YE,false
+🇿🇲,Zambie,260,ZM,false
+🇿🇼,Zimbabwe,263,ZW,false
