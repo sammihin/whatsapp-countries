@@ -1,0 +1,28 @@
+flag,name,code,iso,keepZero
+🇫🇷,France,33,FR,false
+🇧🇪,Belgique,32,BE,false
+🇨🇭,Suisse,41,CH,false
+🇨🇦,Canada,1,CA,false
+🇺🇸,États-Unis,1,US,false
+🇬🇧,Royaume-Uni,44,GB,false
+🇩🇪,Allemagne,49,DE,false
+🇪🇸,Espagne,34,ES,false
+🇮🇹,Italie,39,IT,true
+🇵🇹,Portugal,351,PT,false
+🇳🇱,Pays-Bas,31,NL,false
+🇱🇺,Luxembourg,352,LU,false
+🇲🇦,Maroc,212,MA,true
+🇩🇿,Algérie,213,DZ,true
+🇹🇳,Tunisie,216,TN,true
+🇸🇳,Sénégal,221,SN,false
+🇨🇮,Côte d'Ivoire,225,CI,true
+🇨🇲,Cameroun,237,CM,false
+🇨🇩,RD Congo,243,CD,false
+🇲🇬,Madagascar,261,MG,false
+🇬🇦,Gabon,241,GA,false
+🇧🇯,Bénin,229,BJ,false
+🇹🇬,Togo,228,TG,false
+🇳🇪,Niger,227,NE,false
+🇧🇫,Burkina Faso,226,BF,false
+🇲🇱,Mali,223,ML,false
+🇬🇳,Guinée,224,GN,false
